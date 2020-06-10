@@ -1,3 +1,8 @@
-Si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción de Vista > Mostrar u ocultar > Elementos ocultos (en Windows) o ejecutar el comando ls -a.
+Si quieres ver los archivos ocultos de una carpeta puedes habilitar la opción de 
 
-Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su sistema de control de versiones. Solo debemos posicionarnos en la carpeta raíz de nuestro proyecto y ejecutar el comando git init.
+
+dell > visualizar > ocultos (en Windows) o ejecutar el comando ls -a.
+
+Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su sistema de control de versiones. 
+
+Solo debemos realiza lo que dice el video.
