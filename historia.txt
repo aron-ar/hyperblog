@@ -5,4 +5,4 @@ dell > visualizar > ocultos (en Windows) o ejecutar el comando ls -a.
 
 Le indicaremos a Git que queremos crear un nuevo repositorio para utilizar su sistema de control de versiones. 
 
-Solo debemos realiza lo que dice el video.
+Solo debemos realizar siguiendo los pasos.
